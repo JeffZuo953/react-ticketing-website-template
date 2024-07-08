@@ -18,7 +18,7 @@ const Page = (): React.JSX.Element => (
         <div className='center'>
           <Heading type={1} color='gray' text='我的账户' />
           <p className='gray form-information'>
-            You can update your profile photo and your account details here.
+            你的信息在这里
           </p>
           <div className='button-container'>
             <ButtonGroup color='gray'>

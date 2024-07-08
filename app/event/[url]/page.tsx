@@ -65,23 +65,39 @@ const Page = (): React.JSX.Element => (
                 data={[
                   {
                     id: 1,
-                    name: 'Family',
-                    price: '£10',
+                    name: 'VIP',
+                    price: 'CNY 39,999',
                     ordering: 1,
-                    soldout: true,
+                    // soldout: true,
+                    information: '赠送：谷艺凌签名小卡，谷艺凌同款紫色心情，可以带一个同伴，活动结束有谷老师亲自会见进行服务'
                   },
                   {
                     id: 2,
-                    name: 'Adult',
-                    price: '£20',
+                    name: '内场近区',
+                    price: 'CNY 9,999',
                     ordering: 2,
+                    information: '赠送：谷艺凌同款紫色心情'
                   },
                   {
                     id: 3,
-                    name: 'Child',
-                    price: '£30',
+                    name: '内场远区',
+                    price: 'CNY 4,999',
                     ordering: 3,
-                    information: 'Information about child tickets',
+                    information: '赠送：谷艺凌同款紫色心情'
+                  },
+                  {
+                    id: 4,
+                    name: '外场近区',
+                    price: 'CNY 3,999',
+                    ordering: 4,
+                    information: '赠送：谷艺凌同款紫色心情'
+                  },
+                  {
+                    id: 2,
+                    name: '外场近区',
+                    price: 'CNY 2,999',
+                    ordering: 5,
+                    information: '赠送：谷艺凌同款紫色心情'
                   },
                 ]}
               />

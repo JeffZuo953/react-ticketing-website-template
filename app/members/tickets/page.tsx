@@ -32,8 +32,8 @@ const Page = (): React.JSX.Element => (
       <div className='container'>
         <div className='ticket-item'>
           <div className='item-right'>
-            <h2>TBD</h2>
-            <p>TBD</p>
+            <h2>敬请期待</h2>
+            <p>敬请期待</p>
             <span className='material-symbols-outlined'>qr_code_2</span>
             <strong>21EX9P</strong>
             <span className='up-border'></span>
@@ -47,7 +47,7 @@ const Page = (): React.JSX.Element => (
             </p>
             <p>
               <span className='material-symbols-outlined'>apartment</span>
-              Hong Kong (TBD)
+              Hong Kong 鸟洞体育馆
             </p>
             <div className='actions'>
               <Link href='/members/tickets' title='Download tickets'>

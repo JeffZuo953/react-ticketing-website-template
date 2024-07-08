@@ -43,11 +43,11 @@ const Page = (): React.JSX.Element => (
             <h5>谷艺凌香港演唱会-VIP门票</h5>
             <p>
               <span className='material-symbols-outlined'>event</span>
-              Tue, Sep 21, 2024 19:00
+              TBD
             </p>
             <p>
               <span className='material-symbols-outlined'>apartment</span>
-              Hong Kong TBD
+              Hong Kong (TBD)
             </p>
             <div className='actions'>
               <Link href='/members/tickets' title='Download tickets'>

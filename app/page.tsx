@@ -15,7 +15,7 @@ const Page = (): React.JSX.Element => (
       <div className='container'>
         <div className='center'>
           <Heading type={1} color='gray' text='Discover' />
-          <p className='gray'>Discover, search and filter best events in Hong Kong.</p>
+          <p className='gray'>探索发现更多活动</p>
         </div>
       </div>
 

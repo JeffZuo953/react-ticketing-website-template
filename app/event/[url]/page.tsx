@@ -74,14 +74,14 @@ const Page = (): React.JSX.Element => (
                   {
                     id: 2,
                     name: '内场近区',
-                    price: 'CNY 9,999',
+                    price: 'CNY 8,999',
                     ordering: 2,
                     information: '赠送：谷艺凌同款紫色心情'
                   },
                   {
                     id: 3,
                     name: '内场远区',
-                    price: 'CNY 4,999',
+                    price: 'CNY 5,999',
                     ordering: 3,
                     information: '赠送：谷艺凌同款紫色心情'
                   },
@@ -94,7 +94,7 @@ const Page = (): React.JSX.Element => (
                   },
                   {
                     id: 5,
-                    name: '外场近区',
+                    name: '外场远区',
                     price: 'CNY 2,999',
                     ordering: 5,
                     information: '赠送：谷艺凌同款紫色心情'

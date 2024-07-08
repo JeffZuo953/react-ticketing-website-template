@@ -64,7 +64,7 @@ const Page = (): React.JSX.Element => (
         from='60'
         color='blue'
         when='Mon, Jul 2, 2024 20:00'
-        name='那艺娜-贝塔儿歌首唱会'
+        name='焦艺翠在阳光中外翻'
         venue='Eventim Apollo'
         image='https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />

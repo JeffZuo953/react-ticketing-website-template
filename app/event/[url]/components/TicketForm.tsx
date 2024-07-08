@@ -172,9 +172,12 @@ const TicketForm = ({ data }: IProps): React.JSX.Element => {
                 <span>{ticket.name}</span>
                 <strong>{ticket.price}</strong>
                 {ticket.information != null && (
+                <>
                   <span className='material-symbols-outlined icon' title={ticket.information}>
                     info
                   </span>
+                  <div>{ticket.information}</div>
+                </>
                 )}
               </>
             )}

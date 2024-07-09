@@ -35,7 +35,7 @@ const Page = (): React.JSX.Element => (
             <h2>敬请期待</h2>
             <p>敬请期待</p>
             <span className='material-symbols-outlined'>qr_code_2</span>
-            <strong>21EX9P</strong>
+            <strong>592778</strong>
             <span className='up-border'></span>
             <span className='down-border'></span>
           </div>

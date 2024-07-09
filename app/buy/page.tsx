@@ -45,18 +45,13 @@ const Page = (): React.JSX.Element => (
             </thead>
             <tbody>
               <tr>
-                <td className='left'>Child</td>
-                <td className='center'>2</td>
-                <td className='right'>£23</td>
-              </tr>
-              <tr>
-                <td className='left'>Adult</td>
-                <td className='center'>2</td>
-                <td className='right'>£23</td>
+                <td className='left'>VIP</td>
+                <td className='center'>1</td>
+                <td className='right'>CNY 39,999</td>
               </tr>
               <tr>
                 <td className='right' colSpan={3}>
-                  <strong>Total : </strong> £23
+                  <strong>Total : </strong> CNY 39,999
                 </td>
               </tr>
             </tbody>

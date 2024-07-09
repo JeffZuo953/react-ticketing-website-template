@@ -27,9 +27,9 @@ const Page = (): React.JSX.Element => (
           }}
           className='cover-image image'
         />
-        <Heading type={1} color='white' text='Event name goes here' />
-        <Heading type={5} color='white' text='Tue, Sep 21, 2024 19:00' />
-        <Heading type={6} color='white' text='Royal Albert Hall' />
+        <Heading type={1} color='white' text='谷艺凌香港演唱会' />
+        <Heading type={5} color='white' text='TBD' />
+        <Heading type={6} color='white' text='香港鸟洞体育馆' />
       </div>
     </div>
     <Section className='white-background'>
@@ -109,7 +109,7 @@ const Page = (): React.JSX.Element => (
 
     <Section className='white-background'>
       <div className='container'>
-        <Heading type={4} color='gray' text='Royal Albert Hall' />
+        <Heading type={4} color='gray' text='香港鸟洞体育馆' />
 
         <Heading type={6} color='gray' text='Address' />
         <div className='paragraph-container'>
@@ -140,9 +140,9 @@ const Page = (): React.JSX.Element => (
         url='1'
         from='20'
         color='orange'
-        when='Tue, Sep 21, 2024 19:00'
+        when='TBD'
         name='Event name goes here'
-        venue='Royal Albert Hall'
+        venue='香港鸟洞体育馆'
         image='https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />
       <EventCard
@@ -176,9 +176,9 @@ const Page = (): React.JSX.Element => (
         url='1'
         from='20'
         color='orange'
-        when='Tue, Sep 21, 2024 19:00'
+        when='TBD'
         name='Event name goes here'
-        venue='Royal Albert Hall'
+        venue='香港鸟洞体育馆'
         image='https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />
       <EventCard
@@ -194,7 +194,7 @@ const Page = (): React.JSX.Element => (
   </Master>
 );
 
-const title = 'Event name goes here';
+const title = '谷艺凌香港演唱会';
 const canonical = 'https://modern-ticketing.com/event/1';
 const description = 'Modern ticketing is a modern ticketing solution';
 

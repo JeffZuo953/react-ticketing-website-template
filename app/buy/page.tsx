@@ -24,13 +24,13 @@ const Page = (): React.JSX.Element => (
           <div className='padding-top'>
             <Heading type={5} color='gray' text='Details' />
             <p>
-              <strong>Event</strong> Event name goes here
+              <strong>Event</strong> 谷艺凌香港演唱会
             </p>
             <p>
-              <strong>Venue</strong> Royal Albert Hall
+              <strong>Venue</strong> 香港鸟洞体育馆
             </p>
             <p>
-              <strong>Date</strong> Tue, Sep 21, 2024 19:00
+              <strong>Date</strong> TBD
             </p>
           </div>
         </div>

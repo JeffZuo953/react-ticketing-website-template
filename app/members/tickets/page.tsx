@@ -73,7 +73,7 @@ const Page = (): React.JSX.Element => (
             <h5>Lisa Crazy Hourse Show</h5>
             <p>
               <span className='material-symbols-outlined'>event</span>
-              Tue, Sep 21, 2024 19:00
+              TBD
             </p>
             <p>
               <span className='material-symbols-outlined'>apartment</span>

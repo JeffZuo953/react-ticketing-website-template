@@ -47,7 +47,7 @@ const Page = (): React.JSX.Element => (
             </p>
             <p>
               <span className='material-symbols-outlined'>apartment</span>
-              Hong Kong 鸟洞体育馆
+              Hong Kong 亚洲国际博览馆
             </p>
             <div className='actions'>
               <Link href='/members/tickets' title='Download tickets'>

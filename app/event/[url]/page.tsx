@@ -29,7 +29,7 @@ const Page = (): React.JSX.Element => (
         />
         <Heading type={1} color='white' text='谷艺凌香港演唱会' />
         <Heading type={5} color='white' text='TBD' />
-        <Heading type={6} color='white' text='香港鸟洞体育馆' />
+        <Heading type={6} color='white' text='香港亚洲国际博览馆' />
       </div>
     </div>
     <Section className='white-background'>
@@ -109,7 +109,7 @@ const Page = (): React.JSX.Element => (
 
     <Section className='white-background'>
       <div className='container'>
-        <Heading type={4} color='gray' text='香港鸟洞体育馆' />
+        <Heading type={4} color='gray' text='香港亚洲国际博览馆' />
 
         <Heading type={6} color='gray' text='Address' />
         <div className='paragraph-container'>
@@ -142,7 +142,7 @@ const Page = (): React.JSX.Element => (
         color='orange'
         when='TBD'
         name='Event name goes here'
-        venue='香港鸟洞体育馆'
+        venue='香港亚洲国际博览馆'
         image='https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />
       <EventCard
@@ -178,7 +178,7 @@ const Page = (): React.JSX.Element => (
         color='orange'
         when='TBD'
         name='Event name goes here'
-        venue='香港鸟洞体育馆'
+        venue='香港亚洲国际博览馆'
         image='https://images.unsplash.com/photo-1531058020387-3be344556be6?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />
       <EventCard

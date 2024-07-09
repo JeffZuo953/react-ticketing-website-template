@@ -27,7 +27,7 @@ const Page = (): React.JSX.Element => (
               <strong>Event</strong> 谷艺凌香港演唱会
             </p>
             <p>
-              <strong>Venue</strong> 香港鸟洞体育馆
+              <strong>Venue</strong> 香港亚洲国际博览馆
             </p>
             <p>
               <strong>Date</strong> TBD

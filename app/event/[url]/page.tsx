@@ -46,95 +46,114 @@ const Page = (): React.JSX.Element => (
                 谷艺凌为了提升自己的唱功，拜师赫拉含青。赫拉含青于2024年1月10日零报酬地
                 帮助谷艺凌演唱了原创歌曲《贝如塔女王》。在广大网友的见证下，谷艺凌凭借她的歌声和才华，被认可为"贝如塔女王"。 [5]
               </p>
-              <div class="basic-info J-basic-info cmn-clearfix">
-              <dl class="basicInfo-block basicInfo-left">
-                <dt class="basicInfo-item name" id="basic-name">艺&nbsp;&nbsp;&nbsp;&nbsp;名</dt>
-                <dd class="basicInfo-item value">
-                谷艺凌<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
-                [5]</sup><a class="sup-anchor" name="ref_5_" id="ref_5_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">外文名</dt>
-                <dd class="basicInfo-item value">
-                Slut/Julia<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
-                [5]</sup><a class="sup-anchor" name="ref_5_" id="ref_5_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">昵&nbsp;&nbsp;&nbsp;&nbsp;称</dt>
-                <dd class="basicInfo-item value">
-                谷谷鸡/贝如塔女王<sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-                [2]</sup><a class="sup-anchor" name="ref_2_" id="ref_2_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">性&nbsp;&nbsp;&nbsp;&nbsp;别</dt>
-                <dd class="basicInfo-item value">
-                女
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">民&nbsp;&nbsp;&nbsp;&nbsp;族</dt>
-                <dd class="basicInfo-item value">
-                汉族
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">国&nbsp;&nbsp;&nbsp;&nbsp;籍</dt>
-                <dd class="basicInfo-item value">
-                <a target="_blank" href="/item/%E4%B8%AD%E5%9B%BD/22516505" data-lemmaid="22516505">中国</a><sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
-                [5]</sup><a class="sup-anchor" name="ref_5_" id="ref_5_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">出生地</dt>
-                <dd class="basicInfo-item value">
-                之江明州<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
-                [7]</sup><a class="sup-anchor" name="ref_7_" id="ref_7_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">毕业院校</dt>
-                <dd class="basicInfo-item value">
-                <a target="_blank" href="/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6/192109" data-lemmaid="192109">中国传媒大学</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">身&nbsp;&nbsp;&nbsp;&nbsp;高</dt>
-                <dd class="basicInfo-item value">
-                170 cm
-                </dd>
+              <div>
+                <dl>
+                    <dt>
+                        艺    名
+                    </dt>
+                    <dd>
+                        谷艺凌
+                    </dd>
+                    <dt>
+                        外文名
+                    </dt>
+                    <dd>
+                        slut/julia
+                    </dd>
+                    <dt>
+                        昵    称
+                    </dt>
+                    <dd>
+                        谷谷鸡/贝如塔女王
+                    </dd>
+                    <dt>
+                        性    别
+                    </dt>
+                    <dd>
+                        女
+                    </dd>
+                    <dt>
+                        民    族
+                    </dt>
+                    <dd>
+                        汉族
+                    </dd>
+                    <dt>
+                        国    籍
+                    </dt>
+                    <dd>
+                        <a>中国</a>
+                    </dd>
+                    <dt>
+                        出生地
+                    </dt>
+                    <dd>
+                        之江明州
+                    </dd>
+                    <dt>
+                        毕业院校
+                    </dt>
+                    <dd>
+                        <a>中国传媒大学</a>
+                    </dd>
+                    <dt>
+                        身    高
+                    </dt>
+                    <dd>
+                        170 cm
+                    </dd>
                 </dl>
-                <dl class="basicInfo-block basicInfo-right">
-                <dt class="basicInfo-item name" id="basic-name">体&nbsp;&nbsp;&nbsp;&nbsp;重</dt>
-                <dd class="basicInfo-item value">
-                70 kg
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">成名作品</dt>
-                <dd class="basicInfo-item value">
-                《情似火》《贝如塔女王》《艺凌有约》<sup class="sup--normal" data-sup="1-3" data-ctrmap=":1,:2,:3,">
-                [1-3]</sup><a class="sup-anchor" name="ref_1_" id="ref_1_">&nbsp;</a><a class="sup-anchor" name="ref_2_" id="ref_2_">&nbsp;</a><a class="sup-anchor" name="ref_3_" id="ref_3_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">经纪公司</dt>
-                <dd class="basicInfo-item value">
-                丫G公司<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
-                [5]</sup><a class="sup-anchor" name="ref_5_" id="ref_5_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">音乐类型</dt>
-                <dd class="basicInfo-item value">
-                流行
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">代表作品</dt>
-                <dd class="basicInfo-item value">
-                <a target="_blank" href="/item/%E8%B4%9D%E5%A6%82%E5%A1%94%E5%A5%B3%E7%8E%8B/63958543" data-lemmaid="63958543">贝如塔女王</a><sup class="sup--normal" data-sup="2" data-ctrmap=":2,">
-                [2]</sup><a class="sup-anchor" name="ref_2_" id="ref_2_">&nbsp;</a>
-                、情似火<sup class="sup--normal" data-sup="1" data-ctrmap=":1,">
-                [1]</sup><a class="sup-anchor" name="ref_1_" id="ref_1_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">流&nbsp;&nbsp;&nbsp;&nbsp;派</dt>
-                <dd class="basicInfo-item value">
-                贝塔派<sup class="sup--normal" data-sup="7" data-ctrmap=":7,">
-                [7]</sup><a class="sup-anchor" name="ref_7_" id="ref_7_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">职&nbsp;&nbsp;&nbsp;&nbsp;业</dt>
-                <dd class="basicInfo-item value">
-                歌手，网红，演员，家政公司老板，足浴店老板，艳舞女郎，KTV小姐<sup class="sup--normal" data-sup="5" data-ctrmap=":5,:7,">
-                [5]</sup><a class="sup-anchor" name="ref_5_" id="ref_5_">&nbsp;</a>
-                <sup class="sup--normal" data-sup="7" data-ctrmap=":5,:7,">
-                [7]</sup><a class="sup-anchor" name="ref_7_" id="ref_7_">&nbsp;</a>
-                </dd>
-                <dt class="basicInfo-item name" id="basic-name">所获奖项</dt>
-                <dd class="basicInfo-item value">
-                《星耀中国》好声音百强歌手<sup class="sup--normal" data-sup="3" data-ctrmap=":3,">
-                [3]</sup><a class="sup-anchor" name="ref_3_" id="ref_3_">&nbsp;</a>
-                </dd>
+                <dl>
+                    <dt>
+                        体    重
+                    </dt>
+                    <dd>
+                        70 kg
+                    </dd>
+                    <dt>
+                        成名作品
+                    </dt>
+                    <dd>
+                        《情似火》《贝如塔女王》《艺凌有约》
+                    </dd>
+                    <dt>
+                        经纪公司
+                    </dt>
+                    <dd>
+                        丫g公司
+                    </dd>
+                    <dt>
+                        音乐类型
+                    </dt>
+                    <dd>
+                        流行
+                    </dd>
+                    <dt>
+                        代表作品
+                    </dt>
+                    <dd>
+                        贝如塔女王、情似火
+                    </dd>
+                    <dt>
+                        流    派
+                    </dt>
+                    <dd>
+                        贝塔派
+                    </dd>
+                    <dt>
+                        职    业
+                    </dt>
+                    <dd>
+                        歌手，网红，演员，家政公司老板，足浴店老板，艳舞女郎，ktv小姐
+                    </dd>
+                    <dt>
+                        所获奖项
+                    </dt>
+                    <dd>
+                        《星耀中国》好声音百强歌手
+                    </dd>
                 </dl>
-              </div>
+            </div>
             </div>
           </div>
           <div>

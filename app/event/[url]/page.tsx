@@ -199,6 +199,13 @@ const Page = (): React.JSX.Element => (
                     ordering: 5,
                     information: '赠送：谷艺凌同款紫色心情'
                   },
+                  {
+                    id: 6,
+                    name: '特价票',
+                    price: 'CNY 298',
+                    ordering: 6,
+                    information: '无礼品赠送'
+                  },
                 ]}
               />
             </div>

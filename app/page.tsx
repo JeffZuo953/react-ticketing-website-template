@@ -169,7 +169,7 @@ const Page = (): React.JSX.Element => (
         from='10'
         color='orange'
         when='Sun, Mar 14, 2024 15:00'
-        name='大火宝祭奠大会'
+        name='大某宝祭奠大会'
         venue='Wembley Stadium'
         image='https://images.unsplash.com/photo-1561489396-888724a1543d?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       />

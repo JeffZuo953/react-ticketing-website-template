@@ -204,6 +204,7 @@ const Page = (): React.JSX.Element => (
                     name: '特价票',
                     price: 'CNY 298',
                     ordering: 6,
+                    soldout: true,
                     information: '无礼品赠送'
                   },
                 ]}

@@ -134,8 +134,10 @@ const TicketForm = ({ data }: IProps): React.JSX.Element => {
             {ticket.soldout === true ? (
               <>
                 <span className='material-symbols-outlined'>lock</span>
-                <span>{ticket.name}</span>
-                <del>{ticket.price}</del>
+                <span>{ticket.name} </span>
+                <span>
+                  <del>{ticket.price} </del>
+                </span>
                 <strong>Sold out</strong>
                 {ticket.information != null && (
                   <span className='material-symbols-outlined icon' title={ticket.information}>

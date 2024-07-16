@@ -135,7 +135,7 @@ const TicketForm = ({ data }: IProps): React.JSX.Element => {
               <>
                 <span className='material-symbols-outlined'>lock</span>
                 <span>{ticket.name}</span>
-                <del>{ticket.price}<del/>
+                <del>{ticket.price}</del>
                 <strong>Sold out</strong>
                 {ticket.information != null && (
                   <span className='material-symbols-outlined icon' title={ticket.information}>

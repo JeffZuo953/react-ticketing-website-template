@@ -185,7 +185,7 @@ const Page = (): React.JSX.Element => (
       <EventCard
         url='1'
         from='20'
-        color='purple'
+        color='orange'
         when='TBD'
         name='简英纠英大会'
         venue='Royal Albert Hall'
